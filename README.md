@@ -29,8 +29,8 @@ This is a web application that allows users to check the weather forecast for a 
 
 ## Screenshots
 
-![Screenshot 1](images\weatherforcast1.png)
-![Screenshot 2](images\weatherforcast2.png)
+(images\weatherforcast1.png)
+(images\weatherforcast2.png)
 
 ## License
 
